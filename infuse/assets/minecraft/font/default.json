@@ -1,0 +1,18 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/hotbar_slot.png",
+            "ascent": 20,
+            "height": 20,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/hotbar_slot_speed.png",
+            "ascent": 20,
+            "height": 20,
+            "chars": ["\uE001"]
+        }
+    ]
+}
